@@ -1,0 +1,19 @@
+* {
+    font-family: Poppins, sans-serif;
+}
+
+
+.card {
+    /* width: 200px; */
+    border: 2px dashed black;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-title {
+    font-size: 20px;
+}
+
+.card-title+p {
+    font-size: 11px;
+}
